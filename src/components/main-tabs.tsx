@@ -20,7 +20,7 @@ class MainTabs extends Component {
       {
         id: "settings",
         name: "Settings",
-        disabled: true
+        disabled: false
       }
     ];
 
