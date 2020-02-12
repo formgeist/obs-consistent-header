@@ -13,9 +13,10 @@
 
 ## 🚀 Running locally
 
-1. **Yarn**
+1. **Yarn & Gatsby**
 
-    Ensure you have yarn installed.
+    Ensure you have yarn and gatsby installed.
+    
 
 2.  **Start developing.**
 
