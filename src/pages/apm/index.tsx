@@ -1,5 +1,6 @@
 import React from "react";
 import MyComponent from "../../components/my_component";
+import PageNavigation from "../../components/page_navigation";
 import {
   EuiButton,
   EuiCode,
@@ -18,6 +19,7 @@ import {
 export default () => (
   <EuiPage>
     <EuiPageBody>
+      <PageNavigation />
       <EuiPageHeader>
         <EuiPageHeaderSection>
           <EuiTitle size="l">
